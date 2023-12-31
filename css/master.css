@@ -97,6 +97,9 @@ nav{
     justify-content: center;
     
 }
+.floatRight{
+    float:right;
+}
 .box {
     width: 140px;
     height: auto;
