@@ -324,6 +324,15 @@ h6{
 .footer-bio{
     text-align: center;
 }
+.back-to-top{
+    position:fixed;
+    right:2rem;
+    buttom:2rem;
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    background-color:var(--color1)
+    }
 
   @media (min-width: 400px) { 
 
