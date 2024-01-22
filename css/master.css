@@ -320,10 +320,6 @@ h6{
 .displayFlex i{
     padding-top: 30px;
 }
-.Portfolio .card{
-    display: block;
-    margin: 36px auto;
-}
 
 .footer-bio{
     text-align: center;
@@ -415,19 +411,6 @@ h6{
         grid-template-columns: 1fr 1fr;
         
         gap: 20px;
-    }
-    .Portfolio{
-        display: grid;
-        grid-template-columns:1fr 1fr 1fr;
-        margin: 0 auto;
-       
-    }
-    .Portfolio .row{
-        grid-column-end: 4;
-        
-    }
-    .Portfolio .row .h2{
-        text-align: center;
     }
     
    }
