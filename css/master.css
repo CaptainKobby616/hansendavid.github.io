@@ -46,7 +46,7 @@ ul li{
   
   .loader-text {
     font-family: 'Barlow Semi Condensed', sans-serif;
-    font-size: 28px;
+    font-size: 24px;
     background:  red;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -58,7 +58,7 @@ ul li{
     }
   
     100% {
-      width: 240px;
+      width: 320px;
     }
   }
   
